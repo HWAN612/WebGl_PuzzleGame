@@ -16,6 +16,8 @@ Web에서도 플레이해볼 수 있도록 GitHub Actions를 통해 자동으로
 | 🎥 영상 | [링크](https://www.youtube.com/shorts/33DspUvv27w) |
 | 📱 Google PlayStore | [링크](https://play.google.com/store/apps/details?id=com.hwansol.catchstar) |
 
+
+<img width="400" height="224" alt="Image" src="https://github.com/user-attachments/assets/7acc9539-c508-49e2-9f40-65845dbca0f6" />
 <!-- 스크린샷 / GIF가 있다면 이 자리에 추가하면 좋아요
 ## 📸 스크린샷
 | 메인 화면 | 플레이 화면 | 결과 화면 |
