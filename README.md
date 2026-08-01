@@ -1,11 +1,11 @@
 # ⭐ CatchStar - WebGL Build
 
-같은 색 별을 이어서 터뜨리는 모바일 퍼즐 게임, **CatchStar**의 WebGL 빌드를 배포하기 위한 레포지토리입니다.
-Web에서도 플레이해볼 수 있도록 GitHub Actions를 통해 자동으로 빌드 및 배포됩니다.
+같은 색 별을 이어서 터뜨리는 모바일 퍼즐 게임, **CatchStar**의 WebGL 빌드를 배포하기 위한 레포지토리입니다. 
+Web에서도 플레이해 볼 수 있도록 GitHub Actions를 통해 자동으로 빌드 및 배포됩니다.
 
 기획부터 출시까지 **2인 개발**로 진행했으며, Google Play에 정식 출시를 완료했습니다.
 
-[![Play Now](https://img.shields.io/badge/▶-Play%20Now-orange?style=for-the-badge)](https://hwan612.github.io/WebGl_PuzzleGame/)
+[![Play Now](https://img.shields.io/badge/▶-Play%20Now-blue?style=for-the-badge)](https://hwan612.github.io/WebGl_PuzzleGame/)
 
 ## 🕹️ 게임 소개
 
